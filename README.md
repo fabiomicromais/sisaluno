@@ -1,2 +1,2 @@
 # sisaluno
-sistema de alunos da tuarma de ensino medioa
+sistema de alunos da turma de ensino medio - 2AI e 2BI
